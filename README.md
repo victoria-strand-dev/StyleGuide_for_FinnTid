@@ -6,4 +6,6 @@ The point with the style guide is to gather the design elements that are going t
 
 The style_guide.html is a visualisation of how to implement the different components in the code for other to use.
 
+FinnTid is a group project. To avoid taking credit for the others work, this repository only includes the base frontend components and styling for the project.
+
  
